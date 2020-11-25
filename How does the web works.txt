@@ -1,0 +1,5 @@
+How does the web works?
+The web is a system for publishing pages of information on the internet, and for linking pages together using links.
+The web is a way of accessing information over the medium of the Internet.
+The web uses the HTTP protocol to transmit data.
+The web also utilizes browsers, such as Google Chrome, to access Web documents called web pages that are linked to each other via hyperlinks.

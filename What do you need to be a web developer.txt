@@ -1,0 +1,6 @@
+What do you need to be a web developer?
+
+A web developer need to be good essentially at three things :
+-Frontend web programing languages and skills such as JavaScript, Ajax and web animation techniques.
+-Backend web programing languages such as PHP,...
+-Database technology.

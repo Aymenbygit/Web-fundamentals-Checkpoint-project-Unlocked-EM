@@ -1,0 +1,3 @@
+What’s the role of a web developer?
+
+A web developer is at heart an interactive artist. He is someone driven by a deep desire to create things. A web developer’s job is to use the basic building blocks of the web (like HTML, CSS and JavaScript) to create something complex like a webpage.
